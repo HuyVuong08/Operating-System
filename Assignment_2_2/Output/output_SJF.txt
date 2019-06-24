@@ -1,0 +1,8 @@
+Process  0 start     0 end    7
+Process  1 start     8 end   12
+Process  2 start     7 end    8
+Process  3 start    12 end   16
+Throughput time: 0.25
+Average waiting time: 4
+Average response time: 4
+Average turnaround time: 8

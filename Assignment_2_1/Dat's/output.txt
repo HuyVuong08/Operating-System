@@ -1,0 +1,4 @@
+Throughput = 0.31
+Average waiting time = -1.60 ms
+Average response time = -2.80 ms
+Average turnaround time = 2.40 ms

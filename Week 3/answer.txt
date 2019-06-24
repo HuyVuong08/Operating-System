@@ -1,0 +1,3 @@
+3. LINE A: "Parent value = 5"
+
+4. When the parents create a new child process, child won't share neither of Heap, Stack or shared segment memory
